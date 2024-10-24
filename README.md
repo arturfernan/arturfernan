@@ -1,4 +1,4 @@
-👋 Hi, I’m @arturfernan, a Mechanical Engineer turned Data Analyst with a passion for using Data Science to drive business insights.
+👋 Hi, I’m Artur Fernndes, a Mechanical Engineer turned Data Analyst with a passion for using Data Science to drive business insights.
 👀 I’m interested in Data Analysis, Machine Learning, Neuro-Marketing, and applying NLP (Neuro-Linguistic Programming) in marketing strategies.
 🌱 I’m currently deepening my knowledge in advanced machine learning techniques and consumer behavior analysis, while always looking for innovative ways to integrate data science into marketing.
 💞️ I’m looking to collaborate on projects related to data-driven marketing, predictive analytics, and automated data pipelines for marketing campaigns.
